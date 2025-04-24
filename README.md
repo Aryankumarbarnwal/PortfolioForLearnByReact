@@ -1,13 +1,28 @@
 
-# React + Vite
+# React Portfolio Website 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built using **React.js**. It showcases my skills, projects, and contact details — a great way to introduce myself as a MERN stack developer.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design for mobile and desktop
+- Sections for About Me, Projects, Contact, and Skills
+- Clean and minimal UI
+- React-based component structure
 
-# PortFolio
-Animated PortFolio using React
+## 🛠️ Tech Stack
+
+- Frontend: **React.js**, **HTML**, **CSS**, **JavaScript**
+- Deployment: GitHub Pages / Netlify (your choice)
+
+## 🧪 Installation & Run Locally
+
+```bash
+git clone https://github.com/Aryankumarbarnwal/react-portfolio.git
+cd react-portfolio
+npm install
+npm start
+
+
+
 
